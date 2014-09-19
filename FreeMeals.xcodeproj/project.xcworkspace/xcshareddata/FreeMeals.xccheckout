@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A5929D8D-749F-40E6-AD27-705E43A73A87</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FreeMeals</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5EB624D87A05AA4E3FAFC619BE53DBDCCF502A2C</key>
+		<string>https://github.com/churchof/churchof_ios_free_meals.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FreeMeals.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5EB624D87A05AA4E3FAFC619BE53DBDCCF502A2C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/churchof/churchof_ios_free_meals.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5EB624D87A05AA4E3FAFC619BE53DBDCCF502A2C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5EB624D87A05AA4E3FAFC619BE53DBDCCF502A2C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FreeMeals</string>
+		</dict>
+	</array>
+</dict>
+</plist>
